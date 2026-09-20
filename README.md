@@ -13,5 +13,9 @@ A Python automation script that extracts email addresses from a text file using 
 - Python 3
 - re (Regular Expressions)
 
+## Student Developer Profile
+I am also open to student developer hardware evaluation, review-unit and loaner collaborations.  
+[View my collaboration profile](./STUDENT_DEVELOPER_PROFILE.md)
+
 ## Author
 Rohit Rajkumar
